@@ -7,7 +7,7 @@ b = int(input("Enter the second number: "))
 Answer = ((float(a)+float(b))/2)
 print (int(Answer))
 
-print("Answer")
+print(Answer)
 
 #this program will calculate the average of two numbers
 
